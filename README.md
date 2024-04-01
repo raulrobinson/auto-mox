@@ -8,6 +8,8 @@ SCADA automation and control system
 
 ### Video Hardware
 
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](assets%2Fvideo-board.mp4 "Now in Android: 55")
+
 [video-board.mp4](assets%2Fvideo-board.mp4)
 
 ### Screenshots
