@@ -4,7 +4,7 @@ SCADA automation and control system
 
 ### Tour Complete System
 
-[Descargar Video](assets%2Fautomox-video.mp4)
+[Ver Video en YouTube]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/zacdMmacDT0))
 
 ### Video Hardware
 
