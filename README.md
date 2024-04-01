@@ -4,7 +4,6 @@ SCADA automation and control system
 
 ### Tour Complete System
 
-[Ver Video en YouTube]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/zacdMmacDT0))
 
 ### Video Hardware
 
